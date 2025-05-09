@@ -1,0 +1,7 @@
+[package]
+name = "data-viz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+foxglove = "0.7.1"
